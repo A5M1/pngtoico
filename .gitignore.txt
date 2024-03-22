@@ -1,0 +1,3 @@
+*.exe
+fingerprint.png
+fingerprint.ico
